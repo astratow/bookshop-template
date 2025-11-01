@@ -9,6 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^7.1.7"
+    "vite": "^7.1.7",
+    "node-fetch": "^3.3.2"
+  },
+  "dependencies": {
+    
   }
 }
